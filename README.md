@@ -1,4 +1,4 @@
-# politex stpre
+# politex store
 Hi! This's my thesis on the development of an online store of Polytech branded store 
 
 #How install on localHost? 
